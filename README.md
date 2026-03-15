@@ -1,13 +1,13 @@
-# 🚑 Accidental Messenger System
+#  Accidental Messenger System
 
 **Accidental Messenger System** is an IoT-based accident detection and emergency alert system developed as a **Community Engagement Project (CEP)**. The system automatically detects road accidents using motion sensors and sends emergency alerts with location details to registered contacts.
 
-🌐 **Live Website:**  
+ **Live Website:**  
 https://basic-rosy.vercel.app/
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 Road accidents often lead to delayed emergency response because victims may be unconscious or unable to call for help.  
 The **Accidental Messenger System** solves this problem by automatically detecting accidents and notifying emergency contacts in real time.
@@ -16,7 +16,7 @@ The system integrates **IoT sensors, GPS tracking, and GSM communication** to de
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Detect accidents automatically using sensors  
 - Capture real-time accident location using GPS  
@@ -26,7 +26,7 @@ The system integrates **IoT sensors, GPS tracking, and GSM communication** to de
 
 ---
 
-## 🧰 Technology Used
+##  Technology Used
 
 - **Hardware:** Arduino / ESP32  
 - **Sensors:** Accelerometer, Gyroscope  
@@ -37,7 +37,7 @@ The system integrates **IoT sensors, GPS tracking, and GSM communication** to de
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - Automatic accident detection  
 - Real-time GPS location tracking  
@@ -47,16 +47,16 @@ The system integrates **IoT sensors, GPS tracking, and GSM communication** to de
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Yadnesh Patil**  
 Computer Engineering Student  
 
-🔗 GitHub: https://github.com/Yadnesh-Patil-12  
-🔗 LinkedIn: https://www.linkedin.com/in/yadnesh-patil-799a9b29a/
+   GitHub: https://github.com/Yadnesh-Patil-12  
+   LinkedIn: https://www.linkedin.com/in/yadnesh-patil-799a9b29a/
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for **educational and community engagement purposes**.
